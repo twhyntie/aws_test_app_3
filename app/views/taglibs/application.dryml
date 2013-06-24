@@ -1,3 +1,7 @@
 <!-- this file is included by front_site.dryml, admin_site.dryml et al, so
 you can place common code in this file. -->
 
+<def tag="field-list">
+  <!-- <feckless-fieldset class="horizontal" merge/> -->
+  <field-list-v1 merge/>
+</def>
